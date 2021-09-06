@@ -1,0 +1,10 @@
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\bin\Debug\WFA_Text_Editor.exe.config
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\bin\Debug\WFA_Text_Editor.exe
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\bin\Debug\WFA_Text_Editor.pdb
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\obj\Debug\WFA_Text_Editor.Form1.resources
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\obj\Debug\WFA_Text_Editor.Properties.Resources.resources
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\obj\Debug\WFA_Text_Editor.csproj.GenerateResource.cache
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\obj\Debug\WFA_Text_Editor.csproj.CoreCompileInputs.cache
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\obj\Debug\WFA_Text_Editor.exe
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\obj\Debug\WFA_Text_Editor.pdb
+D:\My Documents\Code\Компуктерная академия\Задания_C#\WFA_Text_Editor\WFA_Text_Editor\obj\Debug\WFA_Text_Editor.csproj.AssemblyReference.cache

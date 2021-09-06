@@ -1,0 +1,66 @@
+C:\Users\Agnessa\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Agnessa\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\Agnessa\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\Agnessa\source\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Agnessa\source\repos\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Agnessa\source\repos\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Agnessa\source\repos\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Agnessa\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Agnessa\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\Agnessa\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\Agnessa\Desktop\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Agnessa\Desktop\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\Agnessa\Desktop\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Agnessa\Desktop\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Agnessa\Desktop\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Agnessa\Desktop\Game\Game\obj\Debug\Game.exe
+C:\Users\Agnessa\Desktop\Game\Game\obj\Debug\Game.pdb
+C:\Users\Agnessa\Desktop\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Agnessa\Desktop\Game\Game\bin\Debug\Game.exe
+C:\Users\Agnessa\Desktop\Game\Game\bin\Debug\Game.pdb
+C:\Users\Agnessa\Desktop\Game\Game\bin\Debug\MetroFramework.Design.dll
+C:\Users\Agnessa\Desktop\Game\Game\bin\Debug\MetroFramework.dll
+C:\Users\Agnessa\Desktop\Game\Game\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Agnessa\Desktop\Game\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\Agnessa\Desktop\ы\Game\bin\Debug\Game.exe.config
+C:\Users\Agnessa\Desktop\ы\Game\bin\Debug\Game.exe
+C:\Users\Agnessa\Desktop\ы\Game\bin\Debug\Game.pdb
+C:\Users\Agnessa\Desktop\ы\Game\bin\Debug\MetroFramework.Design.dll
+C:\Users\Agnessa\Desktop\ы\Game\bin\Debug\MetroFramework.dll
+C:\Users\Agnessa\Desktop\ы\Game\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Agnessa\Desktop\ы\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Agnessa\Desktop\ы\Game\obj\Debug\Game.Form1.resources
+C:\Users\Agnessa\Desktop\ы\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Agnessa\Desktop\ы\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\Agnessa\Desktop\ы\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Agnessa\Desktop\ы\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\Agnessa\Desktop\ы\Game\obj\Debug\Game.exe
+C:\Users\Agnessa\Desktop\ы\Game\obj\Debug\Game.pdb
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\bin\Debug\Game.exe.config
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\bin\Debug\Game.exe
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\bin\Debug\Game.pdb
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\bin\Debug\MetroFramework.Design.dll
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\bin\Debug\MetroFramework.dll
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.Form1.resources
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.exe
+C:\Users\tolik\OneDrive\Рабочий стол\Game\Game\obj\Debug\Game.pdb
+D:\My Documents\Code\Компуктерная академия\Game\Game\bin\Debug\Game.exe.config
+D:\My Documents\Code\Компуктерная академия\Game\Game\bin\Debug\Game.exe
+D:\My Documents\Code\Компуктерная академия\Game\Game\bin\Debug\Game.pdb
+D:\My Documents\Code\Компуктерная академия\Game\Game\bin\Debug\MetroFramework.Design.dll
+D:\My Documents\Code\Компуктерная академия\Game\Game\bin\Debug\MetroFramework.dll
+D:\My Documents\Code\Компуктерная академия\Game\Game\bin\Debug\MetroFramework.Fonts.dll
+D:\My Documents\Code\Компуктерная академия\Game\Game\obj\Debug\Game.csproj.AssemblyReference.cache
+D:\My Documents\Code\Компуктерная академия\Game\Game\obj\Debug\Game.Form1.resources
+D:\My Documents\Code\Компуктерная академия\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\My Documents\Code\Компуктерная академия\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+D:\My Documents\Code\Компуктерная академия\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\My Documents\Code\Компуктерная академия\Game\Game\obj\Debug\Game.csproj.CopyComplete
+D:\My Documents\Code\Компуктерная академия\Game\Game\obj\Debug\Game.exe
+D:\My Documents\Code\Компуктерная академия\Game\Game\obj\Debug\Game.pdb

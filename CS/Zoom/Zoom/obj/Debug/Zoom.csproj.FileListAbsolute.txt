@@ -1,0 +1,10 @@
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\bin\Debug\Zoom.exe.config
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\bin\Debug\Zoom.exe
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\bin\Debug\Zoom.pdb
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\obj\Debug\Zoom.csprojAssemblyReference.cache
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\obj\Debug\Zoom.Form1.resources
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\obj\Debug\Zoom.Properties.Resources.resources
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\obj\Debug\Zoom.csproj.GenerateResource.cache
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\obj\Debug\Zoom.csproj.CoreCompileInputs.cache
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\obj\Debug\Zoom.exe
+D:\My Documents\Code\Компуктерная академия\Задания_C#\Zoom\Zoom\obj\Debug\Zoom.pdb
